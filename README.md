@@ -2,7 +2,7 @@
 A quiz applicatgion that will challenge anyone to answer simple programming language question, while being timed and will store their points.
 
 ## Usage
-To open the page, simply click on the following link: 
+To open the page, simply click on the following link: https://victorjmora.github.io/Shortest-QuizShow/
 
 ## License
 MIT License
