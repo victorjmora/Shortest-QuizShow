@@ -1,18 +1,18 @@
-Description:
+## Description:
 A quiz applicatgion that will challenge anyone to answer simple programming language question, while being timed and will store their points.
 
-Usage
+## Usage
 To open the page, simply click on the following link: 
 
-License
+## License
 MIT License
 
-Features
+## Features
 Questions will randomly appear in different order every time the quizz is started.
 
 Answers will appear in random order everytime the question is presented.
 
-Acceptance Criteria
+## Acceptance Criteria
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 
 SO THAT I can gauge my progress compared to my peers
